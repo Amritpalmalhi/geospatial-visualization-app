@@ -1,10 +1,10 @@
-# Geospatial Data Visualization & Prediction Web App
+ # Geospatial Data Visualization & Prediction Web App
 
 ## 📌 Project Overview
 
-This interactive web application allows users to upload geospatial data, visualize it on a web map, and run machine learning-based spatial analysis (e.g., land suitability, flood risk, or energy consumption prediction).
+ This interactive web application allows users to upload geospatial data, visualize it on a web map, and run machine learning-based spatial analysis (e.g., land suitability, flood risk, or energy consumption prediction).
 
-## 💡 Features
+### 💡 Features
 
 - Upload and visualize geospatial data (GeoJSON, CSV, shapefiles)
 - Perform basic spatial analysis (buffer, clip, intersection)
@@ -12,7 +12,7 @@ This interactive web application allows users to upload geospatial data, visuali
 - Display ML results as interactive maps
 - Fully deployed web app with cloud hosting
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Frontend:** React (for UI)
 - **Backend:** Django (API & ML processing)
